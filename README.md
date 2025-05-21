@@ -1,9 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Sai Kumar Goud!
 
-# 👋 Hello, I'm Sai Kumar Goud!
-🎓 A 3rd-year CSE Student 
-💻 Full-stack developer | Tech Enthusiast | Open-source Contributor  
+🎓 I'm a 3rd-year Computer Science Engineering student.  
+💻 Full-stack Developer | Tech Enthusiast | Open-Source Contributor  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+---
 
-  
+### 🚀 About Me
+
+- 🔭 I’m currently working on full-stack web applications using **MERN stack**
+- 🌱 I’m improving my skills in **Data Structures & Algorithms (DSA)** using **C** and **Java**
+- 🤝 I love contributing to open-source and collaborating with other developers
+- 💬 Ask me about anything related to **Java**, **React**, **Node.js**, or **DSA**
+- 📫 How to reach me: [https://www.linkedin.com/in/patangi-sai-kumar-goud-235338244/]
